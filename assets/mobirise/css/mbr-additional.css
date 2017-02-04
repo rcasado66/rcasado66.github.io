@@ -785,6 +785,12 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#features9-2 .date B {
+  font-size: 30px;
+}
+#features9-2 .date P {
+  font-size: 30px;
+}
 #header9-1 .elements-content {
   padding-bottom: 50px;
 }

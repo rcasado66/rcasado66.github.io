@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -128,6 +128,81 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features9",
+          "_anchor": "features9-2",
+          "_params": {
+            "blocks": "10",
+            "cardsColor": "#f2e6c6",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#a15b1c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true
+          },
+          "mainTitle": "RECOMENDACIONES",
+          "mainSubtitle": "Recomendaciones previas en torno a la Realidad Virtual",
+          "date1": "<b>1º</b>",
+          "title1": "No es aconsejable el USO de dispositivos Realidad virtual a niños menores de 9 años",
+          "text1": "La vista no está del todo desarrollada hasta dichas edades, por lo que su uso en menores de esa edad puede ser contraproducente para su salud ocular.",
+          "date2": "<b>2 º</b>",
+          "title2": "2. Supervisión.",
+          "text2": "Por otro lado, el uso de estos dispositivos (visionado de contenidos de Realidad Virtual) por parte de menores de edad debe realizarse siempre bajo la supervisión de un adulto. Un posible factor a tener en cuenta es la normativa PEGI que, tanto los videojuegos como las apps para smartphones llevan asociadas.",
+          "date3": "<b>3º</b>",
+          "title3": "Advertencia para personas con marcapasos.",
+          "text3": "Los visores y kits de montaje derivados de los patrones Google Cardboard (versión 1) contienen imanes que se han de manipular a la hora de su montaje, por lo que las personas con marcapasos deben extremar la precaución a la hora de su manipulación.",
+          "date4": "<b>4 º</b>",
+          "title4": "Tampoco se recomienda un uso prolongado de dispositivos VR en una misma sesión.",
+          "text4": "&nbsp;Se recomienda un máximo de entre 15 y 20 minutos por sesión de VR. En caso contrario, se pueden generar mareos, desorientación o cansancio ocular.  Nuestro cuerpo es sabio y, ante cualquier síntoma de este tipo, se recomienda detener la experiencia.<br>",
+          "date5": "<b>5º</b>",
+          "title5": "No es recomendable visionar ciertos contenidos VR mediante a personas que padezcan algún tipo de trastorno relacionado con la epilepsia u otras patologías que afecten al sistema nervioso.",
+          "text5": "&nbsp;El visionado de ciertos contenidos inmersivos, según temática y/o tipos de escenarios (terror, por ejemplo), o bien si incorporan estímulos visuales muy activos, como luces, movimientos, etc., puede alterar el sistema nervioso y poner en riesgo la salud de personas con algún tipo de sensibilidad al respecto. Es mejor iniciarse en la VR con una experiencia “relajada”, no con una experiencia demasiado dinámica como, por ejemplo, subir a una montaña rusa o similar.<br>",
+          "date6": "<b>6 º</b>",
+          "title6": "No se recomienda utilizar visores VR mientras se realizan ciertas actividades físicas (como conducción o manejo de maquinaria, andar, correr, etc.).",
+          "text6": "&nbsp;El usuario es el responsable de las consecuencias de un mal uso de su dispositivo al respecto. Deberemos asegurarnos también de utilizar nuestros dispositivos en lugares/espacios/zonas seguras, que no presenten obstáculos que puedan interferir a nuestros movimientos.<br>",
+          "date7": "<b>7º</b>",
+          "title7": "Es importante asegurar siempre nuestro smartphone al dispositivo VR, (mediante la goma de sujeción que éste incluye en su frontal) y/o con nuestras manos.",
+          "text7": "&nbsp;Evitaremos así que el teléfono móvil pueda caer y dañarse. Recuerda: si no quieres que tu teléfono móvil acabe dañado, mantén las precauciones necesarias para ello.<br>",
+          "date8": "<b>8º</b>",
+          "title8": "No exponer un dispositivo VR de forma directa a la luz solar.",
+          "text8": "&nbsp;Los dispositivos VR contienen 2 lentes y… ¿qué ocurre cuando una “lupa” se expone directamente al sol, apuntando a algún material, como por ejemplo cartón o plástico? Pues, efectivamente, el material expuesto puede quemarse en pocos segundos si se deja al sol directamente y sin supervisión. Por lo tanto, debemos tener precaución y vigilar en qué lugar dejamos nuestro dispositivo, ya sea al aire libre o en un espacio de interior, cercano a la fuente de luz solar.<br>",
+          "date9": "<b>9º</b>",
+          "title9": "Proteger nuestro dispositivo de la lluvia y factores externos similares.",
+          "text9": "&nbsp;Los visores tipo cardboard, como ya sabes, están hechos (en gran parte) de cartón… por lo que la lluvia o el agua podría dañarlo irreparablemente. Deberemos protegerlo de la humedad y de la exposición directa al agua.<br>",
+          "date10": "<b>10º</b>",
+          "title10": "Consentimiento e información previa.",
+          "text10": " En función del público destinatario y/o de la actividad VR que llevemos a cabo, deberemos valorar si es necesario vehicular algún documento de consentimiento previo, firmado por un adulto, y/o una hoja informativa que contenga estas y otras posibles recomendaciones de uso previas.",
+          "date11": "11 November 2016",
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "_styles": {
+            ".date B": {
+              "font-size": "30px"
+            },
+            ".date P": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".elements-content": {
               "padding-bottom": "50px"
@@ -149,7 +224,7 @@
           "_name": "header9",
           "_anchor": "header9-1",
           "_params": {
-            "tabs": "3",
+            "tabs": "6",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
